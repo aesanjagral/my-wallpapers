@@ -28,7 +28,7 @@
             "default_clock_color": "#FFFFFF"
         },
         {
-            "id": "wallpaper_3",
+            "id": "wallpaper_4",
             "name": "Sunset Beach",
             "category": "Minimal",
             "bg_url": "https://raw.githubusercontent.com/aesanjagral/my-wallpapers/main/images/01bg.png",
@@ -46,7 +46,7 @@
             "default_clock_color": "#FFFFFF"
         },
         {
-            "id": "wallpaper_3",
+            "id": "wallpaper_5",
             "name": "Sunset Beach",
             "category": "Minimal",
             "bg_url": "https://raw.githubusercontent.com/aesanjagral/my-wallpapers/main/images/01bg.png",
@@ -57,6 +57,7 @@
     ]
 
 }
+
 
 
 
