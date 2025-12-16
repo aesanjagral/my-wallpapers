@@ -3,6 +3,7 @@
         {
             "id": "wallpaper_1",
             "name": "Sunset Beach",
+            "category": "Nature",
             "bg_url": "https://raw.githubusercontent.com/aesanjagral/my-wallpapers/main/images/01bg.png",
             "fg_url": "https://raw.githubusercontent.com/aesanjagral/my-wallpapers/main/images/01fg.png",
             "thumbnail": "https://raw.githubusercontent.com/aesanjagral/my-wallpapers/main/images/01bg.png",
@@ -11,6 +12,7 @@
         {
             "id": "wallpaper_2",
             "name": "Sunset Beach",
+            "category": "City",
             "bg_url": "https://raw.githubusercontent.com/aesanjagral/my-wallpapers/main/images/01bg.png",
             "fg_url": "https://raw.githubusercontent.com/aesanjagral/my-wallpapers/main/images/01fg.png",
             "thumbnail": "https://raw.githubusercontent.com/aesanjagral/my-wallpapers/main/images/01bg.png",
@@ -19,6 +21,7 @@
         {
             "id": "wallpaper_3",
             "name": "Sunset Beach",
+            "category": "Abstract",
             "bg_url": "https://raw.githubusercontent.com/aesanjagral/my-wallpapers/main/images/01bg.png",
             "fg_url": "https://raw.githubusercontent.com/aesanjagral/my-wallpapers/main/images/01fg.png",
             "thumbnail": "https://raw.githubusercontent.com/aesanjagral/my-wallpapers/main/images/01bg.png",
@@ -27,5 +30,6 @@
     ]
 
 }
+
 
 
