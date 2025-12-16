@@ -3,27 +3,28 @@
         {
             "id": "wallpaper_1",
             "name": "Sunset Beach",
-            "bg_url": "https://github.com/aesanjagral/my-wallpapers/blob/main/images/01bg.png",
-            "fg_url": "https://github.com/aesanjagral/my-wallpapers/blob/main/images/01fg.png",
-            "thumbnail": "https://github.com/aesanjagral/my-wallpapers/blob/main/images/01bg.png",
+            "bg_url": "https://raw.githubusercontent.com/aesanjagral/my-wallpapers/main/images/01bg.png",
+            "fg_url": "https://raw.githubusercontent.com/aesanjagral/my-wallpapers/blob/main/images/01fg.png",
+            "thumbnail": "https://raw.githubusercontent.com/aesanjagral/my-wallpapers/blob/main/images/01bg.png",
             "default_clock_color": "#FFFFFF"
         },
         {
             "id": "wallpaper_2",
             "name": "Sunset Beach",
-            "bg_url": "https://github.com/aesanjagral/my-wallpapers/blob/main/images/01bg.png",
-            "fg_url": "https://github.com/aesanjagral/my-wallpapers/blob/main/images/01fg.png",
-            "thumbnail": "https://github.com/aesanjagral/my-wallpapers/blob/main/images/01bg.png",
+            "bg_url": "https://raw.githubusercontent.com/aesanjagral/my-wallpapers/main/images/01bg.png",
+            "fg_url": "https://raw.githubusercontent.com/aesanjagral/my-wallpapers/blob/main/images/01fg.png",
+            "thumbnail": "https://raw.githubusercontent.com/aesanjagral/my-wallpapers/blob/main/images/01bg.png",
             "default_clock_color": "#FFFFFF"
         },
         {
             "id": "wallpaper_3",
             "name": "Sunset Beach",
-            "bg_url": "https://github.com/aesanjagral/my-wallpapers/blob/main/images/01bg.png",
-            "fg_url": "https://github.com/aesanjagral/my-wallpapers/blob/main/images/01fg.png",
-            "thumbnail": "https://github.com/aesanjagral/my-wallpapers/blob/main/images/01bg.png",
+            "bg_url": "https://raw.githubusercontent.com/aesanjagral/my-wallpapers/main/images/01bg.png",
+            "fg_url": "https://raw.githubusercontent.com/aesanjagral/my-wallpapers/blob/main/images/01fg.png",
+            "thumbnail": "https://raw.githubusercontent.com/aesanjagral/my-wallpapers/blob/main/images/01bg.png",
             "default_clock_color": "#FFFFFF"
         }
     ]
 
 }
+
