@@ -3,26 +3,27 @@
         {
             "id": "wallpaper_1",
             "name": "Sunset Beach",
-            "bg_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/sunset_bg.jpg",
-            "fg_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/sunset_fg.png",
-            "thumbnail": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/sunset_thumb.jpg",
+            "bg_url": "https://github.com/aesanjagral/my-wallpapers/blob/main/images/01bg.png",
+            "fg_url": "https://github.com/aesanjagral/my-wallpapers/blob/main/images/01fg.png",
+            "thumbnail": "https://github.com/aesanjagral/my-wallpapers/blob/main/images/01bg.png",
             "default_clock_color": "#FFFFFF"
         },
         {
             "id": "wallpaper_2",
-            "name": "Mountain View",
-            "bg_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/mountain_bg.jpg",
-            "fg_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/mountain_fg.png",
-            "thumbnail": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/mountain_thumb.jpg",
-            "default_clock_color": "#000000"
+            "name": "Sunset Beach",
+            "bg_url": "https://github.com/aesanjagral/my-wallpapers/blob/main/images/01bg.png",
+            "fg_url": "https://github.com/aesanjagral/my-wallpapers/blob/main/images/01fg.png",
+            "thumbnail": "https://github.com/aesanjagral/my-wallpapers/blob/main/images/01bg.png",
+            "default_clock_color": "#FFFFFF"
         },
         {
             "id": "wallpaper_3",
-            "name": "City Lights",
-            "bg_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/city_bg.jpg",
-            "fg_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/city_fg.png",
-            "thumbnail": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/city_thumb.jpg",
-            "default_clock_color": "#FFFF00"
+            "name": "Sunset Beach",
+            "bg_url": "https://github.com/aesanjagral/my-wallpapers/blob/main/images/01bg.png",
+            "fg_url": "https://github.com/aesanjagral/my-wallpapers/blob/main/images/01fg.png",
+            "thumbnail": "https://github.com/aesanjagral/my-wallpapers/blob/main/images/01bg.png",
+            "default_clock_color": "#FFFFFF"
         }
     ]
+
 }
